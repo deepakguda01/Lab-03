@@ -1,9 +1,19 @@
 
-# Lab #3: Develop Code Repository and Push Commits 
+# Group 1_Section2 - Lab 3 Exercise
 
-|	Name	|	Email	|
-|---------------|---------------|
-|Sheng-Han Yueh |syueh@mail.yu.edu|
+
+|	Name	     |	     Email        |
+|--------------------|--------------------|
+|Deepak Reddy Guda   |dguda@mail.yu.edu   |
+|Ratna Anvesh Alluri |ralluri@mail.yu.edu |
+|Prem chand Jala     |pjala@mail.yu.edu   |
+|Jaynish Shah        |jshah@mail.yu.edu   |
+|Arun Mathew         |amathew5@mail.yu.edu|
+|Sreyash Venkata     |smudiamv@mail.yu.edu|
+|Sai Krishna Dadi    |sdadi@mail.yu.edu   |
+
+ 
+# Lab #3: Develop Code Repository and Push Commits 
 
 
 **Points: 10**  
